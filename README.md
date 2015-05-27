@@ -21,5 +21,7 @@ Data read from prReports.csv file. Naive Bayes and Stochastic Gradient Descent l
 Cluster and PCA applied to vector representation of the *User Report:* field. Scatterplot and wordcloud visualisastion of results.
 
 ##### A. SparseMatrix.ipynb
+Appendix file illustrating the creation of sparse matrix representation of text data.
 
 ##### B. Matplotlib_Subplots.ipynb
+Appendix file illustrating various methods of creating subplots with Matplotlib library.

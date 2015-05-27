@@ -17,7 +17,7 @@ Data read from prReports.csv file - data exploration provided.
 ##### 5. Classification.ipynb
 Data read from prReports.csv file. Naive Bayes and Stochastic Gradient Descent learning applied to predict *Warning:* field. Varying methods of vectorization applied to generate input features from *Description:* field. 
 
-##### 5. Clustering & PCA.ipynb
+##### 6. Clustering & PCA.ipynb
 Cluster and PCA applied to vector representation of the *User Report:* field. Scatterplot and wordcloud visualisastion of results.
 
 ##### A. SparseMatrix.ipynb

@@ -12,10 +12,13 @@ Initial scrape of data from website. Data is stored to a collection in a MongoDB
 Must have instance of MongoDB running. Data read from MongoDB collection. Specify name as above. Data is saved to .csv file (prReports.csv) . Remaining notebooks read from .csv file. Initial scrape of 5001 records is provided in Data/prReports.csv for replicating research presented.
 
 ##### 4. Data Visualisation.ipynb
+Data read from prReports.csv file - data exploration provided.
 
 ##### 5. Classification.ipynb
+Data read from prReports.csv file. Naive Bayes and Stochastic Gradient Descent learning applied to predict *Warning:* field. Varying methods of vectorization applied to generate input features from *Description:* field. 
 
 ##### 5. Clustering & PCA.ipynb
+Cluster and 
 
 ##### A. SparseMatrix.ipynb
 

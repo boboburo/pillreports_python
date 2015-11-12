@@ -35,7 +35,7 @@ When you are complete don't forget to deactivate the environment in command line
 
 ### Delete the Environment
 
-1.conda env remove -n pillreports_python
+1. conda env remove -n pillreports_python
 
 ## Notebook Descriptions 
  

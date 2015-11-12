@@ -4,11 +4,11 @@ iPython notebooks to accompany Chapter 5 of upcoming text book: <a href="http://
  
 ## Talks and Presentations
  
- Slides for PyData Berlin Conference May 2015 here
+ Slides for PyData Berlin Conference May 2015 <a href="http://ibriancarter.github.io/berlin_pydata_2015/index.html#/" target="_blank">here</a> 
+
+ Video of PyData Berlin Conference talk <a href="https://www.youtube.com/watch?v=ikxm_kFL9MA" target="_blank">here</a> 
  
- Video of PyData Berlin Conference talk here
- 
- SLides for Python Ireland Meetup November 2015 here
+ Slides for Python Ireland Meetup November 2015 here
 
 ## Setup and Install
  
